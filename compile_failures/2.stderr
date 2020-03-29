@@ -1,5 +1,5 @@
 error: expected one of `(` or `<`, found `{`
- --> $DIR/1.rs:1:9
+ --> $DIR/2.rs:1:9
   |
-1 | fn main { failure_1 }
+1 | fn main { failure_2 }
   |         ^ expected one of `(` or `<` here
